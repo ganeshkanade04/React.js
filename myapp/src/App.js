@@ -5,10 +5,9 @@ import Data from './Data';
 function App() {
   return (
     <div className="App">
-      <Data />
-      <h1> Ganesh Kanade</h1>
-    
-      <Data />
+      <h1>Ganesh</h1>
+     <Data></Data>
+      
     </div>
   );
 }
